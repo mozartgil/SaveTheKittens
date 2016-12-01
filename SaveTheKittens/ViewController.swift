@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         print("Save all the Kittens, now!")
         // Please also put another message down here speaking about something
+        print("Alright, another message added idk y")
     }
 
     override func didReceiveMemoryWarning() {
