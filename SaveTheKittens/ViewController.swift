@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        // Yes, that's it.
+        // Yes, that's it. TEMP
         print("Save all the Kittens, now!")
     }
 
